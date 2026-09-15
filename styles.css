@@ -1,0 +1,21 @@
+h1{
+font-size: 26px; 
+color: #44CCAC;
+border: 1px solid black;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 150px;
+margin-left: 80px;
+background-color: #0A192F;
+text-align: center;
+}
+
+h2{
+font-size: 21px; 
+color:#6060DD;
+margin-top: 100px;
+}
+
+body {
+  background-color: lightblue;
+}
